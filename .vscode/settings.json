@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "C:\\Users\\julia\\anaconda3\\envs\\myenv\\python.exe",
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true,
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.pycodestyleArgs": ["--max-line-length=200"],
+    "[python]": {
+
+        "editor.wordBasedSuggestions": true
+    }
+}
